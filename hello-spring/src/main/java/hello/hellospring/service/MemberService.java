@@ -1,10 +1,7 @@
-package heelo.hellospring.service;
+package hello.hellospring.service;
 
-import heelo.hellospring.domain.Member;
-import heelo.hellospring.repository.MemberRepository;
-import heelo.hellospring.repository.MemoryMemberRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+import hello.hellospring.domain.Member;
+import hello.hellospring.repository.MemberRepository;
 
 import java.util.List;
 import java.util.Optional;

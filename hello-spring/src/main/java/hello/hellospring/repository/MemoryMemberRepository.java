@@ -1,7 +1,6 @@
-package heelo.hellospring.repository;
+package hello.hellospring.repository;
 
-import heelo.hellospring.domain.Member;
-import org.springframework.stereotype.Repository;
+import hello.hellospring.domain.Member;
 
 import java.util.*;
 

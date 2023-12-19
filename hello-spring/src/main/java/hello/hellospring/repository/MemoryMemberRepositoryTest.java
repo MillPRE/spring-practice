@@ -1,6 +1,6 @@
-package heelo.hellospring.repository;
+package hello.hellospring.repository;
 
-import heelo.hellospring.domain.Member;
+import hello.hellospring.domain.Member;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
